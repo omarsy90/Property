@@ -1,0 +1,1 @@
+export const jwt_secret = "this is the key to decode token"
